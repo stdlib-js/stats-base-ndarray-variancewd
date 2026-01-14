@@ -89,8 +89,7 @@
     "sample variance",
     "unbiased",
     "ndarray",
-    "float32",
-    "float64"
+    "welford"
   ],
   "__stdlib__": {},
   "funding": {
