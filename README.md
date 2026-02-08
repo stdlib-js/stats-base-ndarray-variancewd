@@ -110,7 +110,7 @@ The use of the term `n-1` is commonly referred to as Bessel's correction. Note, 
 ## Usage
 
 ```javascript
-import variancewd from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-variancewd@deno/mod.js';
+import variancewd from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-variancewd@v0.1.1-deno/mod.js';
 ```
 
 #### variancewd( arrays )
@@ -163,7 +163,7 @@ import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-
 import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ctor@deno/mod.js';
 import scalar2ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-from-scalar@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@deno/mod.js';
-import variancewd from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-variancewd@deno/mod.js';
+import variancewd from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-variancewd@v0.1.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
